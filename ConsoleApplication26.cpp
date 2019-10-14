@@ -11,7 +11,7 @@ int main()
 
 	do
 	{
-		//requet input from user
+		//requets input from user
 		cout << "Plz enter number :" << endl;
 		cin >> a;
 
@@ -23,7 +23,7 @@ int main()
 			cout << a << " Is odd number " << endl;
 	
 
-		//ask user to wanna looping again or not ? 
+		//ask user wanna looping again or not ? 
 		cout << "do you want  looping again ?? :" << endl;
 		cout << "The answer should be Y/y or N/n only " << endl;
 		cin >> choose;
